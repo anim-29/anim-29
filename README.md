@@ -6,7 +6,7 @@ I am a Web Developer, and I'm very passionate and dedicated to my work. I have a
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://animesh-tripathy.netlify.app)
 * ✉️  You can contact me at [animeshtripathy39@gmail.com](mailto:animeshtripathy39@gmail.com)
-* 🚀  I'm currently working on [E - Quiz Site](http://http://equiz-site-frontend-design.netlify.app)
+* 🚀  I'm currently working on [E - Quiz Site](https://equiz-site-frontend-design.netlify.app)
 * 🧠  I'm learning Django
 * ⚡  Ask me about anything, I am happy to help
 
