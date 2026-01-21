@@ -25,16 +25,9 @@ Web Exploitation, Network Security, Mobile Security, API Security, Thick Client 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-
-<p align="center">
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kali" width="36" height="36" alt="Kali Linux" /></a>
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rajatverma9/Skill-Icons/main/icons/BurpSuite.svg" width="36" height="36" alt="Burp Suite" /></a>
-<a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nmap" width="36" height="36" alt="Nmap" /></a>
 <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/metasploit.svg" width="36" height="36" alt="Metasploit" /></a>
-<a href="https://sqlmap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="SQLmap" /></a>
-<a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nessus" width="36" height="36" alt="Nessus" /></a>
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://simpleicons.org/icons/wireshark.svg" width="36" height="36" alt="Wireshark" /></a>
-</p>
 
 ### Socials
 
